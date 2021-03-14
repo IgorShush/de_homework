@@ -1,6 +1,7 @@
 import os
 
 
+# Использование генератора позволяет не хранить все в памяти
 def absoluteFilePaths(directory):
     for dirpath,_,filenames in os.walk(directory):
         for f in filenames:
