@@ -1,1 +1,1 @@
-![alt text](https://yuml.me/fc342508.svg)
+![alt text](https://github.com/IgorShush/de_homework/blob/master/image.jpg?raw=true)
