@@ -1,1 +1,1 @@
-![alt text](https://yuml.me/fc342508.svg)
+![alt text](https://yuml.me/fc342508.jpg)
